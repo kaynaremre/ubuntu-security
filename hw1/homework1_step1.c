@@ -12,7 +12,7 @@ void entrance()
     // cant call secret(), maybe use secret (pointer to function)
 		
     // can only modify this section END
-    printf("now inside osas entrance()!\n");
+    printf("now inside entrance()!\n");
 }
 
 int main (int argc, char *argv[])
