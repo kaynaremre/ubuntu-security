@@ -6,7 +6,7 @@ int main(){
 char           A[8] = "";
 unsigned short B    = 1979;
 
-strcpy(A, "arabellioinisikeyimoc");
+strcpy(A, "arabellioinisiocyimoc");
 
 printf("%d", B);
 
