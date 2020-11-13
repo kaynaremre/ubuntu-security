@@ -10,7 +10,9 @@ void entrance()
 	int doNotTouch[4];
     // can only modify this section BEGIN
     // cant call secret(), maybe use secret (pointer to function)
-		
+	void *variable;
+	variable = secret;
+	
     // can only modify this section END
     printf("now inside entrance()!\n");
 }
